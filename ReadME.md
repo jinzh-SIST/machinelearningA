@@ -1,1 +1,3 @@
-echo "#machine learning A"
+echo "#machine learning A2023"
+
+-jin
